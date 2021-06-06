@@ -1,6 +1,6 @@
-# status dash
+# status-scripts
 
-> My personal service status dashboard in the terminal
+> My personal service status scripts for the terminal
 
 Displays
 
@@ -11,4 +11,4 @@ Displays
 
 ## License
 
-MIT
+[MIT](LICENSE)
