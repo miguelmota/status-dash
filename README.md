@@ -4,7 +4,7 @@
 
 Displays
 
-- Websites' health check
+- Website health checks from uptime robot
 - Certs expiring soon
 - Open github pull requests
 - Open github issues

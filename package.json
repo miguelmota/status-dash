@@ -1,7 +1,7 @@
 {
-  "name": "status-dash",
+  "name": "status-scripts",
   "version": "0.0.1",
-  "description": "Status dashboard",
+  "description": "Status scripts",
   "main": "index.js",
   "scripts": {
     "test": "node test/*"
